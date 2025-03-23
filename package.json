@@ -1,0 +1,18 @@
+{
+  "name": "seifeslimene-kh-gtm-try",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/third-parties": "15.2.3",
+    "@qwik.dev/partytown": "0.11.0",
+    "next": "15.2.3",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}

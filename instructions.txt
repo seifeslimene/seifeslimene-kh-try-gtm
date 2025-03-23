@@ -1,0 +1,11 @@
+This is a demo project to try out Google Tag Manager Integration
+
+It uses GoogleTagManager from '@next/third-parties/google' package
+
+I have created a Google Tag Manager account and container to test this app:
+https://tagmanager.google.com/#/container/accounts/6274537219/containers/209332282/workspaces/2
+
+Demo App hosted on Vercel: https://seifeslimene-kh-try-gtm.vercel.app/
+
+Try Unlighthouse Perf Test:
+npx unlighthouse --site https://seifeslimene-kh-try-gtm.vercel.app/
