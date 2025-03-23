@@ -7,5 +7,8 @@ https://tagmanager.google.com/#/container/accounts/6274537219/containers/2093322
 
 Demo App hosted on Vercel: https://seifeslimene-kh-try-gtm.vercel.app/
 
+I also did a Page Speed Insights test on the URL above
+https://pagespeed.web.dev/analysis/https-seifeslimene-kh-try-gtm-vercel-app/mnevxh9qcl?form_factor=mobile
+
 Try Unlighthouse Perf Test:
 npx unlighthouse --site https://seifeslimene-kh-try-gtm.vercel.app/
